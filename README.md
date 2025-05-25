@@ -1,8 +1,8 @@
-# 🛠️ GuildBot Editor – Alpha Version
+# 🛠️ Reita – Alpha Version
 
 Visit the project website: [http://reitabot.de](http://reitabot.de)
 
-**GuildBot Editor** is a Discord bot project currently in alpha, designed to let users **learn coding** by customizing the bot’s behavior directly within their own guilds (servers).
+**Reita** is a Discord bot project currently in alpha, designed to let users **learn coding** by customizing the bot’s behavior directly within their own guilds (servers).
 
 Through a built-in editor, users can create custom commands, automations, and interactive features—learning programming in a practical, hands-on way, right inside Discord.
 
