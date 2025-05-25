@@ -51,7 +51,7 @@ Feel free to open issues or send suggestions as I continue development toward be
 
 ## ✅ TODO
 
-- [✅] Add a console
+- [x] Add a console
 - [ ] Add a guild info page
 - [ ] Add a cpu/memori info page
 
