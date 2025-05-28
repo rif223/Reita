@@ -1,6 +1,6 @@
 # 🛠️ Reita – Alpha Version
 
-Visit the project website: [http://reitabot.de](http://reitabot.de)
+Visit the project website: [http://reitabot.duckdns.org](http://reitabot.duckdns.org)
 
 **Reita** is a Discord bot project currently in alpha, designed to let users **learn coding** by customizing the bot’s behavior directly within their own guilds (servers).
 
