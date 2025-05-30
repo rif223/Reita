@@ -1,4 +1,4 @@
-# 🛠️ Reita – Alpha Version
+# 🛠️ Reita – V0.0.2-alpha
 
 Visit the project website: [http://reitabot.duckdns.org](http://reitabot.duckdns.org)
 
@@ -22,14 +22,13 @@ Through a built-in editor, users can create custom commands, automations, and in
 
 This project is in active **alpha development**. While I’m working to ensure a secure environment, **vulnerabilities may still exist**.
 
-**DO NOT** include any sensitive data (e.g.:
+**DO NOT** include any sensitive data:
 - API keys  
 - Passwords  
 - Tokens  
-- Personal data  
-) in your code.
+- Personal data
 
-Scripts may run in a shared or semi-isolated environment. **Assume all code is potentially visible** to others and avoid storing or processing confidential information.
+Scripts may run in semi-isolated environment. **Assume all code is potentially visible** to others and avoid storing or processing confidential information.
 
 ---
 
@@ -54,5 +53,8 @@ Feel free to open issues or send suggestions as I continue development toward be
 - [x] Add a console
 - [ ] Add a guild info page
 - [ ] Add a cpu/memori info page
+- [ ] Add colors to the console
+- [ ] Add a better dokumentation
+- [ ] Add a changelog
 
 ---
