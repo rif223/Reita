@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Reita Banner" width="100%" height="80%">
+  <img src="./logo.png" alt="Reita Banner" width="100%" height="40%">
 </p>
 
 # 🛠️ Reita – V0.0.2-alpha
