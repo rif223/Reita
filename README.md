@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./logo.png" alt="Reita Banner" width="100%" height="40%">
-</p>
+![Reita Banner](./logo.png)
 
 # 🛠️ Reita – V0.0.2-alpha
 
