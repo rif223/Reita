@@ -1,6 +1,6 @@
 ![Reita Banner](./logo.png)
 
-# 🛠️ Reita – V0.0.2-alpha
+# 🛠️ Reita – V0.0.3-alpha
 
 Visit the project website: [http://reitabot.duckdns.org](http://reitabot.duckdns.org)
 
@@ -53,10 +53,10 @@ Feel free to open issues or send suggestions as I continue development toward be
 ## ✅ TODO
 
 - [x] Add a console
+- [x] Add a changelog
 - [ ] Add a guild info page
 - [ ] Add a cpu/memori info page
 - [ ] Add colors to the console
 - [ ] Add a better dokumentation
-- [ ] Add a changelog
 
 ---
