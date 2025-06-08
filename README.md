@@ -1,6 +1,6 @@
 ![Reita Banner](./logo.png)
 
-# 🛠️ Reita – V0.0.3-alpha
+# 🛠️ Reita – V0.0.4-alpha
 
 Visit the project website: [http://reitabot.duckdns.org](http://reitabot.duckdns.org)
 
